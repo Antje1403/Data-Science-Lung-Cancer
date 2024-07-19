@@ -1,7 +1,7 @@
 # Predict lung cancer with logistic regression model
 
 ## Description
-This project aims to demonstrate my skills in data science, based on a dataset from [Kaggle] (https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer). It provides data from about 300 people (probably patients) with different symptoms such as shortness of breath or yellow fingers. It also includes other features like age, gender or smoking or alcohol consumption. 
+This project aims to demonstrate my skills in data science, based on a dataset from Kaggle (https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer). It provides data from about 300 people (probably patients) with different symptoms such as shortness of breath or yellow fingers. It also includes other features like age, gender or smoking or alcohol consumption. 
 The dataset was cleaned and visualized to find important features for model training. The further process also included feature engineering and one hot encoding.
 As machine learning models, a descision tree and a logistic regression model was trained. Beforehand, SMOTE was used to even out the categories.
 The best model was the logistic regression model using the features  "swallowing difficulty", "yellow_fingers",  "alcohol consuming", "allergy", "wheezing", "fatigue", and "age_group_ages 45-59".
@@ -28,7 +28,7 @@ array([[10,  3],
 Download Jupyter Notebook (.ipynb) and Data (.zip). I used Jupyter Lab (with Anaconda) for running the Jupyter Notebook.
 
 ## Data
-Dataset can be downloaded from [Kaggle] (https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)
+Dataset can be downloaded from Kaggle (https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)
 
 ## Required Libraries and Tools
 import zipfile
