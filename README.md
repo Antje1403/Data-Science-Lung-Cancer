@@ -68,8 +68,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##Contact
+## Contact
 You can contact me via my [Website](https://gratis-4722476.webadorsite.com/)
 
-##Acknowledgements
+## Acknowledgements
 Thanks to mysar ahmad bhat on Kaggle for providing the data set. 
